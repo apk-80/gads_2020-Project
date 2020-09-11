@@ -2,8 +2,8 @@
 
 This project presents two folders:
 
-1º The Screen Shots Folders
--  Where all the screen shots are stored
+First Folder, has the Screenshots for the concluded labs:
+-  Where all the screenshots are stored
 
-2º Translations
-- The translatiosn of two labs
+Second Folder, has the Translations doc of the few labs:
+- The translatiosn of 2 labs
